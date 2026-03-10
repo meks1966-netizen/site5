@@ -1,0 +1,74 @@
+body {
+	background-color: cyan;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 4px dotted black;
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+	line-height: 1.6em;
+				
+}
+h1, h2 {
+	color:#a244c1;
+	border-bottom:1px solid;
+	text-decoration: overline;
+	border-bottom: thin dotted #888888;
+}
+q {
+	color:green;
+}
+ol {
+	margin-left: 20px;
+}
+blockquote {
+	font-style: italic;
+	font-size: 24px;
+	border: 3px dotted green;
+}
+.guarantee {
+	line-height: 1.9em;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: black;
+	border-color: white;
+	border-width: 5px;
+	border-style: dashed;
+	border-radius: 15px;
+	background-color: yellow;
+	padding: 25px;
+	padding-left: 130px;
+	margin: 30px;
+	background-image: url(images/background.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	
+}
+#footer {
+	color: black;
+	border-color: white;
+	border-width: 5px;
+	border-style: dashed;
+	border-radius: 15px;
+	background-color: green;
+	padding: 25px;
+	padding-left: 130px;
+	margin: 30px;
+	background-image: url(images/background.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+}		
+#block1 {
+	background-image: url(images/fon1.jpeg);
+}
+#block2 {
+	background-image: url(images/fon2.jpeg);
+}
+#block3 {
+	background-image: url(images/fon3.jpeg);
+}
+#block4 {
+	background-image: url(images/fon4.jpeg);
+}
+#block5 {
+	background-image: url(images/fon3.jpeg);
+}
